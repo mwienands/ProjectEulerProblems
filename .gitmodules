@@ -18,3 +18,11 @@
 	path = LargestPalindromeProduct
 	url = https://github.com/mwienands/LargestPalindromeProduct.git
 	branch = LargestPalindromeProduct
+[submodule "smallestMultiple"]
+	path = smallestMultiple
+	url = https://github.com/mwienands/smallestMultiple.git
+	branch = smallestMultiple
+[submodule "SumSquaredDifference"]
+	path = SumSquaredDifference
+	url = https://github.com/mwienands/SumSquaredDifference.git
+	branch = SumSquaredDifference
