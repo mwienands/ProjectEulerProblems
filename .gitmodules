@@ -1,0 +1,20 @@
+[submodule "SummationOfPrimes"]
+	path = SummationOfPrimes
+	url = https://github.com/mwienands/SummationOfPrimes.git
+	branch = SummationOfPrimes
+[submodule "MultiplesOf3and5"]
+	path = MultiplesOf3and5
+	url = https://github.com/mwienands/MultiplesOf3and5.git
+	branch = MultiplesOf3and5
+[submodule "EvenFibonacciNumbers"]
+	path = EvenFibonacciNumbers
+	url = https://github.com/mwienands/EvenFibonacciNumbers.git
+	branch = EvenFibonacciNumbers
+[submodule "LargestPrimeFactor"]
+	path = LargestPrimeFactor
+	url = https://github.com/mwienands/LargestPrimeFactor.git
+	branch = LargestPrimeFactor
+[submodule "LargestPalindromeProduct"]
+	path = LargestPalindromeProduct
+	url = https://github.com/mwienands/LargestPalindromeProduct.git
+	branch = LargestPalindromeProduct
