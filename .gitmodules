@@ -26,3 +26,15 @@
 	path = SumSquaredDifference
 	url = https://github.com/mwienands/SumSquaredDifference.git
 	branch = SumSquaredDifference
+[submodule "10001stPrime"]
+	path = 10001stPrime
+	url = https://github.com/mwienands/10001stPrime.git
+	branch = 10001stPrime
+[submodule "LargestProductInASeries"]
+	path = LargestProductInASeries
+	url = https://github.com/mwienands/LargestProductInASeries.git
+	branch = LargestProductInASeries
+[submodule "SpecialPythagoreanTriplet"]
+	path = SpecialPythagoreanTriplet
+	url = https://github.com/mwienands/SpecialPythagoreanTriplet.git
+	branch = SpecialPythagoreanTriplet
