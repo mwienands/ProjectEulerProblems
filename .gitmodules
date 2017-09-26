@@ -38,3 +38,7 @@
 	path = SpecialPythagoreanTriplet
 	url = https://github.com/mwienands/SpecialPythagoreanTriplet.git
 	branch = master
+[submodule "SpecialPythagoreanTriplet"]
+	path = LargestProductInAGrid
+	url = https://github.com/mwienands/LargestProductInAGrid.git
+	branch = master
