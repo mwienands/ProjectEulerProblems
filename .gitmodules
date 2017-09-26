@@ -1,40 +1,40 @@
 [submodule "SummationOfPrimes"]
 	path = SummationOfPrimes
 	url = https://github.com/mwienands/SummationOfPrimes.git
-	branch = SummationOfPrimes
+	branch = master
 [submodule "MultiplesOf3and5"]
 	path = MultiplesOf3and5
 	url = https://github.com/mwienands/MultiplesOf3and5.git
-	branch = MultiplesOf3and5
+	branch = master
 [submodule "EvenFibonacciNumbers"]
 	path = EvenFibonacciNumbers
 	url = https://github.com/mwienands/EvenFibonacciNumbers.git
-	branch = EvenFibonacciNumbers
+	branch = master
 [submodule "LargestPrimeFactor"]
 	path = LargestPrimeFactor
 	url = https://github.com/mwienands/LargestPrimeFactor.git
-	branch = LargestPrimeFactor
+	branch = master
 [submodule "LargestPalindromeProduct"]
 	path = LargestPalindromeProduct
 	url = https://github.com/mwienands/LargestPalindromeProduct.git
-	branch = LargestPalindromeProduct
+	branch = master
 [submodule "smallestMultiple"]
 	path = smallestMultiple
 	url = https://github.com/mwienands/smallestMultiple.git
-	branch = smallestMultiple
+	branch = master
 [submodule "SumSquaredDifference"]
 	path = SumSquaredDifference
 	url = https://github.com/mwienands/SumSquaredDifference.git
-	branch = SumSquaredDifference
+	branch = master
 [submodule "10001stPrime"]
 	path = 10001stPrime
 	url = https://github.com/mwienands/10001stPrime.git
-	branch = 10001stPrime
+	branch = master
 [submodule "LargestProductInASeries"]
 	path = LargestProductInASeries
 	url = https://github.com/mwienands/LargestProductInASeries.git
-	branch = LargestProductInASeries
+	branch = master
 [submodule "SpecialPythagoreanTriplet"]
 	path = SpecialPythagoreanTriplet
 	url = https://github.com/mwienands/SpecialPythagoreanTriplet.git
-	branch = SpecialPythagoreanTriplet
+	branch = master
